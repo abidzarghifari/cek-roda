@@ -30,8 +30,10 @@ jobs:
 
       - name: Set up Gradle
         uses: gradle/gradle-build-action@v2
+      
       - name: buatin apk
         run : ./gradlew app:assembleDebug
+      
       - name: upload APK Atifact
         uses: action/upload-artifact@v4
         with:
