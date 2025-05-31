@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "63163585864",
+    "project_id": "cek-molen",
+    "storage_bucket": "cek-molen.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63163585864:android:b70134948dd0a813e8cf7d",
+        "android_client_info": {
+          "package_name": "com.cekroda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIfxndHkF982g9C_HJFEaKKFQKszWf_Ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
